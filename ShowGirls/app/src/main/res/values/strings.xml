@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShowGirls</string>
+
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="action_settings">设置</string>
+    <string name="about_app">声明:本应用所有数据均来自互联网，且本app仅作学习用途。\n\n相关技术:RXJAVA、MVP、glide、jsoup</string>
+    <string name="about_account">\n微博:<a href="http://weibo.com/2459726734/profile?topnav=1&amp;wvr=6&amp;is_all=1">cs123</a>\n\nGithub:<a href="https://github.com/chenshun131">chenshun131</a>\n\nCSDN博客:<a href="http://blog.csdn.net/chenshun123">chenshun123</a></string>
+</resources>
